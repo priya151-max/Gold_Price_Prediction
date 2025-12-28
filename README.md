@@ -39,8 +39,7 @@ The application features a gold-themed, animated HTML interface that presents re
 - Backend / ML: Python
 - Libraries: Pandas, NumPy, Scikit-learn
 - Visualization: Matplotlib / Seaborn
-# Demo Video
-## 🎥 Project Demo
+# 🎥 Project Demo
 
 This demo showcases the core features of **Verdant Vault**, including
 buying and selling sustainable products, eco-credit tracking, and
